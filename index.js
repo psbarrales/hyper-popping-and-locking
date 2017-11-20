@@ -36,7 +36,7 @@ const secondaryColor = '#f2e5bc';
 const backgroundColor = '#21222d';
 const foregroundColor = '#f2e5bc';
 const borderColor = '#272836';
-const cursorColor = '#21222d';
+const cursorColor = lightRed;
 const selectionColor = '#272836';
 const linkColor = secondaryColor;
 
