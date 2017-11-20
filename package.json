@@ -1,0 +1,25 @@
+{
+	"name": "hyper-popping-and-locking",
+	"description": "HyperTerm theme based on https://github.com/hedinne/popping-and-locking-vscode",
+	"homepage": "https://github.com/psbarrales/hyper-popping-and-locking#readme",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": {
+		"email": "psbarrales@gmail.com",
+		"name": "Pablo Barrales",
+		"url": "psbarrales.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/psbarrales/hyper-popping-and-locking.git"
+	},
+	"bugs": {
+		"url": "https://github.com/psbarrales/hyper-popping-and-locking/issues"
+	},
+	"keywords": [ "gruvbox", "popping-and-locking", "hyper", "hyper-theme" ],
+	"devDependencies": {
+		"standard": "latest"
+	},
+	"files": [ "index.js" ],
+	"license": "MIT"
+}
