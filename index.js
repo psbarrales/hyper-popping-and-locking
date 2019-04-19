@@ -77,10 +77,10 @@ exports.decorateConfig = config => {
 		],
 		termCSS: `
 			${config.termCSS || ''}
-			x-screen a {
+			.terminal a {
 		    color: ${linkColor};
 		  }
-			::selection {
+			.terminal .xterm-selection div {
 			  background: ${selectionColor};
 			}
 		`
